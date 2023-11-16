@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+li{
+    list-style-position: inside;
+    color: blue;
+}
